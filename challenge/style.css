@@ -1,5 +1,5 @@
 *{
-  margin: 0;
+  /*margin: 0;*/
   padding: 0;
   box-sizing: border-box;
 }
@@ -79,3 +79,24 @@ a{
   text-align: center;
   padding-top: 10px;
 }
+
+body{
+  background-color: #ECEFF1;
+}
+
+
+.Portfolio{
+  margin: auto;
+  width: 920px;
+  text-align: center;
+
+}
+
+.Portfolio-title{
+  color: #000000;
+  font-size: 32px;
+  margin-top: 90px;
+  margin-bottom: 8px;
+
+}
+
