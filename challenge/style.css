@@ -1,5 +1,5 @@
 *{
-  /*margin: 0;*/
+  margin: auto;
   padding: 0;
   box-sizing: border-box;
 }
@@ -82,6 +82,8 @@ a{
 
 body{
   background-color: #ECEFF1;
+  /*margin: auto;*/
+  /*width: 920px;*/
 }
 
 
@@ -100,3 +102,24 @@ body{
 
 }
 
+.Portfolio-text{
+  margin-top: 30px;
+  margin-bottom: 30px;
+  font-size: 16px;
+  color: #000000;
+}
+
+.image_box{
+  margin: auto;
+  width: 920px;
+  text-align: center;
+  /*display: flex;*/
+
+}
+
+
+.body-image{
+  height: 250px;
+  width: 300px;
+  padding: 5px;
+}
